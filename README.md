@@ -7,11 +7,12 @@
 
 | US-№ | Verbindlichkeit  | Beschreibung                       |
 | ---- | --------------- | ---------------------------------- |
+| 0    |              Muss    | Als eine Lehrperson möchte ich eine Dokumentation sehen, um den Lernprozess meiner Schüler besser nachvollziehen zu können. |
 | 1    |              Muss    | Als ein Besucher möchte ich Snake spielen können, um mein Geschick zu testen und Spass zu haben. |
 | 2  |              Muss       |   Als ein Besucher möchte ich TicTacToe spielen können, um strategische Herausforderungen zu erleben.                                 |
-| 2  |              Muss     |   Als ein Besucher möchte ich Tetris spielen können, um mein räumliches Denken zu verbessern.                                 |
-| 2  |              Muss      |  Als ein Besucher möchte ich auf einer übersichtlichen Startseite landen, um einfach zu den Spielen navigieren zu können.                                 |
-| 2  |              Kann     |   Als ein Besucher möchte ich eine ansprechende und benutzerfreundliche Webseite erleben, um meine Spielerfahrung zu verbessern.                              |
+| 3  |              Muss     |   Als ein Besucher möchte ich Tetris spielen können, um mein räumliches Denken zu verbessern.                                 |
+| 4  |              Muss      |  Als ein Besucher möchte ich auf einer übersichtlichen Startseite landen, um einfach zu den Spielen navigieren zu können.                                 |
+| 5  |              Kann     |   Als ein Besucher möchte ich eine ansprechende und benutzerfreundliche Webseite erleben, um meine Spielerfahrung zu verbessern.                              |
 
 
 
@@ -37,6 +38,7 @@
 
 | AP-№ | Zuständig | Beschreibung                            | Geplante Zeit |
 | ---- | --------- | --------------------------------------- | ------------- |
+| 0.0  |  Manser        | Projektdokumentation                          | 2 Stunden     |
 | 1.A  |  Greub         | Implementierung des Snake-Spiels        | 10 Stunden     |
 | 1.B  |  Greub         | Durchführung von Snake-Spieltests       | 2 Stunden      |
 | 2.A  |  Raviraj         | Implementierung des TicTacToe-Spiels    | 10 Stunden     |
@@ -45,6 +47,7 @@
 | 3.B  |  Lucena         | Durchführung von Tetris-Spieltests      | 2 Stunden      |
 | 4.A  |  Manser         | Design und Implementierung der Startseite | 10 Stunden  |
 | 4.B  |  Manser         | Durchführung von Startseitentests       | 1 Stunden      |
+| 5.A  |  Individuell         | Portfolioeintrag       | 4 Stunden      |
 
 
 ## 3 Entscheiden
@@ -55,6 +58,7 @@ Keine
 
 | AP-№ | Zuständig | Geplante Zeit | Tatsächliche Zeit |
 | ---- | --------- | ------------- | ----------------- |
+| 0.0  |  Manser        | 2 Stunden      | 2 Stunden         |
 | 1.A  |  Greub         | 10 Stunden     |   12 Stunden      |
 | 1.B  |  Greub         | 2 Stunden      |    2 Stunden               |
 | 2.A  |  Raviraj         | 10 Stunden     |  10 Studen               |
